@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{662:function(n,e,t){"use strict";t.r(e);var o=t(0),c=Object(o.b)({name:"TermsAndConditions",setup:function(){}}),r=t(2),component=Object(r.a)(c,(function(){var n=this,e=n.$createElement;return(n._self._c||e)("div",[n._v("\n  Terms & Conditions\n")])}),[],!1,null,null,null);e.default=component.exports}}]);
